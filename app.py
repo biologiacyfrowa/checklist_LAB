@@ -60,7 +60,7 @@ for krok in lista_krokow:
                     okienko_timera.metric("Czas do końca", f"{minuty:02d}:{sekundy:02d}")
                     time.sleep(1)
                 okienko_timera.empty()
-                st.success("Koniec czasu!")
+                st.success("Koniec czasu")
             
 
 
