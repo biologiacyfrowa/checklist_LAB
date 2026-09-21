@@ -1,0 +1,8 @@
+Przygotowanie mieszaniny reakcyjnej | Nie | 0
+Rozlanie mieszaniny i dodanie matrycowego DNA | Nie | 0
+Wstępna denaturacja (95°C) | Tak | 180
+Denaturacja (95°C) - start cyklu | Tak | 30
+Przyłączanie starterów (np. 60°C) | Tak | 30
+Wydłużanie (72°C) - powtórz cykl 30x | Tak | 60
+Końcowa elongacja (72°C) | Tak | 300
+Chłodzenie (4°C) | Nie | 0
